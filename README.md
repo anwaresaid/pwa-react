@@ -31,5 +31,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## How to use
 
--when running the npm start script, write valid city name in the search box, wait 2 seconds after done typing and it will show you the city name, country, weather and temprature.
--try running it while offline, you will see a the offline page, with text saying "Please go online to check the current weather".
+- when running the npm start script, write valid city name in the search box, wait 2 seconds after done typing and it will show you the city name, country, weather and temprature.
+- try running it while offline, you will see a the offline page, with text saying "Please go online to check the current weather".
