@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import { fetchData } from "./api/fetchData";
-const DEBOUNCE_TIME_MS = 500; // Adjust this to your desired delay
+const DEBOUNCE_TIME_MS = 2000; // timer for the delay after typing in debounce
 
 function App() {
   const [query, setQuery] = useState("");
